@@ -1,5 +1,5 @@
 # AWS-Cloud-Practisioner
-AWS Cloud Practisioner
+[Very helpful YouTube video by FreeCodeCamp](https://www.youtube.com/watch?v=NhDYbskXRgc)
 
 Module 1 Introduction
 
